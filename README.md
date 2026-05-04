@@ -89,7 +89,6 @@ O projeto implementa suporte completo a tema escuro (Dark Mode), com controle gl
 
 ### Passos para execução
 
-```bash
 git clone https://github.com/gipraieiro/fiap-cpad-cp2-liftly.git
 cd fiap-cpad-cp2-liftly
 npm install
